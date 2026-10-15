@@ -1,0 +1,3 @@
+import Challenge
+#print axioms DiameterThreePerfectMatchingCut.Goal
+#print axioms DiameterThreePerfectMatchingCut.solve
